@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Waitfish
-- 👀 I’m interested in Game Develep
-- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on develop a game for child less than 10 old.
 - 📫 
 
